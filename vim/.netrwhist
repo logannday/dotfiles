@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/loganday/Documents/scratchfiles/c_trash'
+let g:netrw_dirhist_7='/Users/loganday/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/Academic/345'
+let g:netrw_dirhist_6='/Users/loganday/.config/nvim/lua/plugins'
+let g:netrw_dirhist_5='/Users/loganday/.config/nvim/lua'
+let g:netrw_dirhist_4='/Users/loganday/.config/nvim'
+let g:netrw_dirhist_3='/Users/loganday/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/Academic/347'
+let g:netrw_dirhist_2='/Users/loganday/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/Academic'
+let g:netrw_dirhist_1='/Users/loganday/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/Academic/347'
+let g:netrw_dirhist_0='/Users/loganday/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/Academic'
+let g:netrw_dirhist_9='/Users/loganday/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/Academic/347'

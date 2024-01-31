@@ -1,3 +1,4 @@
+" VIMRC
 set number
 set relativenumber
 set hidden

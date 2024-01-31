@@ -28,11 +28,12 @@ install_jetbrains_mono() {
 }
 
 # Example usage
-create_symlink .vimrc .vimrc
-create_symlink .zshrc .zshrc
-create_symlink .zshenv .zshenv
+create_symlink vimrc .vimrc
+create_symlink zshrc .zshrc
+create_symlink zshenv .zshenv
 create_symlink alacritty .config/alacritty
 create_symlink nvim .config/nvim
+create_symlink vim .vim
 
 # Install JetBrains Mono (uncomment if needed)
-install_jetbrains_mono
+# install_jetbrains_mono
