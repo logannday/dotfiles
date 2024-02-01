@@ -1,5 +1,6 @@
 " VIMRC
 set number
+set mouse=a
 set relativenumber
 set hidden
 let mapleader = " "
